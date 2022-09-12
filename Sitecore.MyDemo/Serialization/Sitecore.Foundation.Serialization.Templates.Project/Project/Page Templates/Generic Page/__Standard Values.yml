@@ -1,0 +1,52 @@
+﻿---
+ID: "a88d1a10-1489-4753-9429-3ae2e1c673d6"
+Parent: "8f156817-959b-4139-84f4-187a45387bae"
+Template: "8f156817-959b-4139-84f4-187a45387bae"
+Path: /sitecore/templates/Project/Page Templates/Generic Page/__Standard Values
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{806404D9-F27F-4821-BDBC-3D6ECA90E473}">
+        <p
+          uid="{DC2CA441-97C9-4B6F-B93D-5128C6636A37}"
+          key="main"
+          md="{855197E4-97E2-4B84-AF1B-43CA3D9EE6A5}" />
+        <r
+          id="{B046E0B8-1B45-4CF2-AB88-9B840FBC0B43}"
+          ph="head"
+          uid="{8AB59EE5-B770-49E5-9952-F7E8DE71A56A}" />
+        <r
+          id="{FDE3A284-93F0-4725-804F-AD15A52EA881}"
+          ph="head"
+          uid="{CA41EC05-A1B3-4E00-8F55-09FE12A99777}" />
+        <r
+          id="{F08FA091-6F6E-40DC-9226-966E69E856F8}"
+          ph="head"
+          uid="{0058BB87-53A7-46F5-96F7-AA08DD444FD4}" />
+        <r
+          id="{E7A28178-C70B-45D0-8B6D-6DE40FB413D8}"
+          ph="head"
+          uid="{9A1272E9-FDC1-4F24-A166-123932ADFCE8}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220831T190420Z
+    - ID: "291d6c85-03a4-4859-891e-e41453b491bb"
+      Hint: Title
+      Value: $name
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

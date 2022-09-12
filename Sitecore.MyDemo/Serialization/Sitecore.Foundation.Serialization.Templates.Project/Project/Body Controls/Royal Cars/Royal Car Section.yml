@@ -1,0 +1,14 @@
+﻿---
+ID: "82e697c5-e3fc-4ba7-83c1-80d237316dcb"
+Parent: "8dd103c3-4b58-4791-92be-cda900d97730"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/Body Controls/Royal Cars/Royal Car Section
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220905T124721Z

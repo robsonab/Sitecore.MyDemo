@@ -1,0 +1,23 @@
+﻿---
+ID: "18857b6b-b66d-4413-b02c-2990605e927a"
+Parent: "d23ee5e0-1a1e-4715-8295-c41b77a94da9"
+Template: "d23ee5e0-1a1e-4715-8295-c41b77a94da9"
+Path: /sitecore/templates/Project/Base Templates/Page Tile/__Standard Values
+DB: master
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{8E823672-AAE9-4D30-9CF5-859A7B79CB34}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220905T114245Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

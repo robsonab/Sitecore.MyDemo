@@ -1,0 +1,18 @@
+﻿---
+ID: "83bc1fc0-da40-4388-8db6-1e7601894d19"
+Parent: "81a967ec-7e21-4d42-88b6-987128babd94"
+Template: "81a967ec-7e21-4d42-88b6-987128babd94"
+Path: /sitecore/templates/Project/Base Templates/_TopBar/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220823T204804Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
