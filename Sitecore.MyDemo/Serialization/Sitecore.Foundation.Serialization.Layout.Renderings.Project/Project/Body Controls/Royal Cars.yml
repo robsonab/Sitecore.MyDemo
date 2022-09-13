@@ -1,0 +1,32 @@
+﻿---
+ID: "6444c625-1460-472e-b9c2-4371c37b9cd0"
+Parent: "8be5e94d-e48b-40d2-91c2-e8bacd37c5dc"
+Template: "99f8905d-4a87-4eb8-9f8b-a9bebfb3add6"
+Path: /sitecore/layout/Renderings/Project/Body Controls/Royal Cars
+DB: master
+SharedFields:
+- ID: "51b435bc-f7b9-478a-9c51-52916af96ff5"
+  Hint: Path
+  Value: /Views/About/Index.cshtml
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{806404D9-F27F-4821-BDBC-3D6ECA90E473}">
+        <r
+          id="{6444C625-1460-472E-B9C2-4371C37B9CD0}"
+          ph=""
+          uid="{B15C7186-F510-43F6-9492-BF91F8EEE63B}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220905T124218Z

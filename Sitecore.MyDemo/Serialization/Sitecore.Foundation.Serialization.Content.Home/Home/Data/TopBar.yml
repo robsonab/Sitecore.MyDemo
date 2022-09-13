@@ -1,0 +1,36 @@
+﻿---
+ID: "6f141971-c533-4b26-9faa-c797557b547a"
+Parent: "98e19493-5d8c-4a3b-b75f-606420e56b72"
+Template: "81a967ec-7e21-4d42-88b6-987128babd94"
+Path: /sitecore/content/Home/Data/TopBar
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220824T113925Z
+    - ID: "3c18a3ba-0d29-47d5-950d-e6017f14b309"
+      Hint: FacebookLink
+      Value: |
+        <link text=" " linktype="external" url="https://www.facebook.com" anchor="" target="_blank" />
+    - ID: "64303d7d-462e-42bf-a87e-70ffd4af3382"
+      Hint: Phone
+      Value: +1 55 555 123 4567                    
+    - ID: "64a1e7c8-be18-4005-af88-3a4b64fc5a50"
+      Hint: InstagramLink
+      Value: |
+        <link text=" " linktype="external" url="https://www.instagram.com" anchor="" target="" />
+    - ID: "8e141907-c924-45da-9838-6897c4693f33"
+      Hint: TwitterLink
+      Value: |
+        <link text=" " linktype="external" url="https://www.twitter.com" anchor="" target="" />
+    - ID: "9206ee94-5529-4438-a707-bd3c1a0cebd5"
+      Hint: YoutubeLink
+      Value: |
+        <link text=" " linktype="external" url="https://www.youtube.com" anchor="" target="" />
+    - ID: "b1535a9f-b6b7-4b35-a3b3-967c259c6979"
+      Hint: Email
+      Value: "<link text='info@example.com' linktype='mailto' style='' url='mailto:info@example.com?subject=Test'  title='' />"

@@ -1,0 +1,40 @@
+﻿---
+ID: "806404d9-f27f-4821-bdbc-3d6eca90e473"
+Parent: "da04b275-8838-4a3a-afee-817cf1fdd2eb"
+Template: "3a45a723-64ee-4919-9d41-02fd40fd1466"
+Path: /sitecore/layout/Layouts/Project/Generic Page
+DB: master
+SharedFields:
+- ID: "a036b2bc-ba04-44f6-a75f-bae6cd242abf"
+  Hint: Path
+  Value: /Views/GenericPage.cshtml
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{6B1A24DB-7358-4FEB-B068-CD17B7632A57}">
+        <r
+          id="{B046E0B8-1B45-4CF2-AB88-9B840FBC0B43}"
+          ph="head"
+          uid="{DA180108-F44E-455D-911A-1C0E345871A6}" />
+        <r
+          id="{FDE3A284-93F0-4725-804F-AD15A52EA881}"
+          ph="head"
+          uid="{6A84AB89-4818-4829-9E6F-56BD825F5345}" />
+        <r
+          id="{6444C625-1460-472E-B9C2-4371C37B9CD0}"
+          ph="head"
+          uid="{7C295561-D569-4223-8A43-6946B0056C8D}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220831T152341Z

@@ -1,0 +1,20 @@
+﻿---
+ID: "6919b157-8dc3-47e4-8404-d7fe5db6edb1"
+Parent: "110d559f-dea5-42ea-9c1c-8a5df7e70ef9"
+Template: "8f156817-959b-4139-84f4-187a45387bae"
+Path: /sitecore/content/Home/Generic Page
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220905T134827Z
+    - ID: "291d6c85-03a4-4859-891e-e41453b491bb"
+      Hint: Title
+      Value: Generic Page
+    - ID: "eedc41a2-ca2e-4421-b0d5-91a780375c9a"
+      Hint: Car Title
+      Value: 

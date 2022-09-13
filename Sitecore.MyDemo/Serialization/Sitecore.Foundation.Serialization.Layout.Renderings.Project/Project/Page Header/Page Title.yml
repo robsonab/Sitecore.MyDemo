@@ -1,0 +1,36 @@
+﻿---
+ID: "e7a28178-c70b-45d0-8b6d-6de40fb413d8"
+Parent: "64f290c2-98c4-4636-a534-1cbc0f7b244d"
+Template: "99f8905d-4a87-4eb8-9f8b-a9bebfb3add6"
+Path: /sitecore/layout/Renderings/Project/Page Header/Page Title
+DB: master
+SharedFields:
+- ID: "51b435bc-f7b9-478a-9c51-52916af96ff5"
+  Hint: Path
+  Value: /Views/PageHeader/PageTitle.cshtml
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{8E823672-AAE9-4D30-9CF5-859A7B79CB34}" />
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{806404D9-F27F-4821-BDBC-3D6ECA90E473}">
+        <r
+          id="{E7A28178-C70B-45D0-8B6D-6DE40FB413D8}"
+          ph="main"
+          uid="{B3379F7F-B6D7-42F7-8C57-7EBA61307991}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220901T123611Z

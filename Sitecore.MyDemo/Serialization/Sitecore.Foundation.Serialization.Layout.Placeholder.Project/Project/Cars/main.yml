@@ -1,0 +1,22 @@
+﻿---
+ID: "855197e4-97e2-4b84-af1b-43ca3d9ee6a5"
+Parent: "68f9163f-14b7-4533-8b4c-ec84c57b80f6"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: /sitecore/layout/Placeholder Settings/Project/Cars/main
+DB: master
+SharedFields:
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+  Hint: Placeholder Key
+  Value: main
+- ID: "e391b526-d0c5-439d-803e-17512eae6222"
+  Hint: Allowed Controls
+  Type: TreelistEx
+  Value: "{6444C625-1460-472E-B9C2-4371C37B9CD0}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220902T192538Z

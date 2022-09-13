@@ -1,0 +1,51 @@
+﻿---
+ID: "22d8441f-efd6-4adc-b631-069d7462bbb9"
+Parent: "110d559f-dea5-42ea-9c1c-8a5df7e70ef9"
+Template: "8f156817-959b-4139-84f4-187a45387bae"
+Path: /sitecore/content/Home/About us
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0014441a-b49f-48e5-8faa-a010e7c15c6c"
+      Hint: Car Reservation
+      Value: car reservation anytime
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{DF4936D6-A83D-4323-93F6-63EB0945400F}"
+              p:after="p[@uid='{DC2CA441-97C9-4B6F-B93D-5128C6636A37}']"
+              s:id="{6444C625-1460-472E-B9C2-4371C37B9CD0}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1da81433-92d4-4db8-bdcb-8fd15e15dc81"
+      Hint: Rental Support
+      Value: 24/7 car rental support
+    - ID: "2212c7e0-9f4f-481a-93cf-a0d90c99a881"
+      Hint: Image
+      Value: |
+        <image mediaid="{CE079553-3531-4672-A600-B0F64133B824}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220905T114539Z
+    - ID: "291d6c85-03a4-4859-891e-e41453b491bb"
+      Hint: Title
+      Value: About us
+    - ID: "90a139aa-7e3c-4871-bf0e-6fbac430e164"
+      Hint: Pickup Locations
+      Value: lots of pickup locations
+    - ID: "b34a6d30-438b-4ff8-9aea-b88d16a88ec8"
+      Hint: Body
+      Value: Justo et eos et ut takimata sed sadipscing dolore lorem, et elitr labore labore voluptua no rebum sed, stet voluptua amet sed elitr ea dolor dolores no clita. Dolores diam magna clita ea eos amet, amet rebum voluptua vero vero sed clita accusam takimata. Nonumy labore ipsum sea voluptua sea eos sit justo, no ipsum sanctus sanctus no et no ipsum amet, tempor labore est labore no. Eos diam eirmod lorem ut eirmod, ipsum diam sadipscing stet dolores elitr elitr eirmod dolore. Magna elitr accusam takimata labore, et at erat eirmod consetetur tempor eirmod invidunt est, ipsum nonumy at et.
+    - ID: "eedc41a2-ca2e-4421-b0d5-91a780375c9a"
+      Hint: Car Title
+      Value: Welcome to Royal Cars
